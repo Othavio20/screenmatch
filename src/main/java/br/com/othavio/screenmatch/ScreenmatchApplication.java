@@ -4,7 +4,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import br.com.othavio.screenmatch.model.DadosSerie;
 import br.com.othavio.screenmatch.principal.Principal;
 
 
